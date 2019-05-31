@@ -10,4 +10,7 @@ public class Finalexam2Application {
 		SpringApplication.run(Finalexam2Application.class, args);
 	}
 
+    public static class Persona {
+
+    }
 }
